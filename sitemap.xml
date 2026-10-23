@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://pilip.io/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pilip.io/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pilip.io/ru/"/>
+  </url>
+  <url>
+    <loc>https://pilip.io/ru/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pilip.io/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pilip.io/ru/"/>
+  </url>
+</urlset>
